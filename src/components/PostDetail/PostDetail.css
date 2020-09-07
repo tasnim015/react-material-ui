@@ -1,0 +1,17 @@
+.detail{
+    margin: 30px;
+    width: 500px;
+    box-shadow: 5px 5px 3px lightgray;
+    
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.comment-section{
+    margin: 20px 40px;
+    padding: 20px;
+    width: 700px;
+    box-shadow: 5px 5px 3px lightgray;
+    border-radius: 5px;
+}
